@@ -6,7 +6,7 @@ import os
 import json
 
 # 🔑 Token
-TOKEN = os.environ.get("BOT_TOKEN")
+TOKEN = os.environ.get("8270124659:AAFAyM14A5nfQuUYxfJ16q-DWTmfDzccVWM")
 bot = Bot(token=TOKEN)
 
 # 🗂 Chat ID lar saqlanadigan fayl
